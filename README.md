@@ -1,5 +1,5 @@
 # odin-recipes
 
-A project of Marco Verón, full of his favorite recipes!
+The Odin Project *fundamentals course*, project #1.
 
 Skills: HTML
